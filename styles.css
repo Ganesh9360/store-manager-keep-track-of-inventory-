@@ -1,0 +1,16 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-weight: bold;
+  color: #343a40;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
+
+.modal-title {
+  font-weight: bold;
+}
